@@ -1,0 +1,6 @@
+Line_No,Line_from_Doc1,Most_Similar_Line_in_Doc2,Similarity_Score
+1,artificial intelligence is transforming how humans interact with machines,artificial intelligence is widely used in healthcare and transport systems,0.292
+2,it enables automation of complex tasks and supports decision making,it helps automate difficult processes and improves human decisions,0.21
+3,machine learning is a core part of ai that allows systems to learn from data,machine learning enables computers to gain experience from data,0.338
+4,deep learning models are inspired by the structure of the human brain,neural networks are modeled after the way the human brain works,0.382
+5,ai has significant applications in healthcare education and transportation,artificial intelligence is widely used in healthcare and transport systems,0.264

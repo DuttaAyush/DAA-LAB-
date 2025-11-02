@@ -1,0 +1,5 @@
+Artificial intelligence is transforming how humans interact with machines.
+It enables automation of complex tasks and supports decision making.
+Machine learning is a core part of AI that allows systems to learn from data.
+Deep learning models are inspired by the structure of the human brain.
+AI has significant applications in healthcare, education, and transportation.

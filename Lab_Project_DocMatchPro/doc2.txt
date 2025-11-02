@@ -1,0 +1,5 @@
+AI is changing the way people and computers communicate.
+It helps automate difficult processes and improves human decisions.
+Machine learning enables computers to gain experience from data.
+Neural networks are modeled after the way the human brain works.
+Artificial intelligence is widely used in healthcare and transport systems.
