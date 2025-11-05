@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
-from DocMatchPro.docmatchpro import compare_documents
+from docmatchpro import compare_documents
 
 class DocMatchProUI:
     def __init__(self, root):
